@@ -39,7 +39,7 @@ First, I Created a Virtual Machine with Microsoft Azure and opened a Remote Desk
 <br />
 
 <p>
-<img src="https://imgur.com/a/mgpY2JK" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x3LWirO_d.webp?maxwidth=760&fidelity=grand" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Secondly, once I set up the VM with Azure, I opened the browser and downloaded the OSticket installer.
@@ -47,7 +47,7 @@ Secondly, once I set up the VM with Azure, I opened the browser and downloaded t
 <br />
 
 <p>
-<img src="https://imgur.com/a/biMaiNx" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z5FX5GT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once I have the files downloaded on to the Virtual Machine, I Installed all of the contents of the folder including the datebase client HeidiSQL.
