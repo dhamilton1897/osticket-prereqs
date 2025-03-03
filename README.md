@@ -22,9 +22,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Setting Up Virtual Machine w/ Microsoft Azure
+- Download OSTicket Installer
+- Install Contents in folders
 - Item 4
 - Item 5
 
@@ -51,5 +51,25 @@ Secondly, once I set up the VM with Azure, I opened the browser and downloaded t
 </p>
 <p>
 Once I have the files downloaded on to the Virtual Machine, I Installed all of the contents of the folder including the datebase client HeidiSQL.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/fExmVoE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AH8KeJ7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/L1E8QyX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Afterwards, I opened HeidiSQL and set up the database for OSTicket
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Dv8wkvQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mQyiaXB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Jj2EEeL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After setting up the database for OSTicket, I logged in as the Admin of my own Helpdesk Ticketing System via OSTicket.
 </p>
 <br />
