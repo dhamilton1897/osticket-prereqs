@@ -25,8 +25,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Setting Up Virtual Machine w/ Microsoft Azure
 - Download OSTicket Installer
 - Install Contents in folders
-- Item 4
-- Item 5
+- Setting up database for OSTicket
+- Log in as administrator of Helpdesk via OSTicket
 
 <h2>Installation Steps</h2>
 
